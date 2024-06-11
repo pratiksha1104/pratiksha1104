@@ -1,16 +1,16 @@
 # Day 3
 #Notebook 1
-Break statement
+*Break statement
 #Notebook 2
-Pass statement
+*Pass statement
 #Notebook 3
-Continue statement
+*Continue statement
 #Notebook 4
-Statistical user define function
-Like,mean,var,medium etc
+*Statistical user define function
+*Like,mean,var,medium etc
 #Notebook 5
-Logical user define function 
-Like, odd even,grades
+*Logical user define function 
+*Like, odd even,grades
 
 
 
