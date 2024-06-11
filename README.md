@@ -1,13 +1,13 @@
 # Day3
-*Notebook 1
+#Notebook 1
 Break statement
-*Notebook 2
+#Notebook 2
 Pass statement
-*Notebook 3
+#Notebook 3
 Continue statement
-*Notebook 4
+#Notebook 4
 statistical functions
-*Notebook 5
+#Notebook 5
 Logical function
 
 
